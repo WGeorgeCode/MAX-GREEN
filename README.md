@@ -1,6 +1,6 @@
 __MAX-GREEN__
 
-__PAID TOOLS__
+__TRIAL TOOLS__
 
 __FILE=RANDOM=PUBLIC__
 
